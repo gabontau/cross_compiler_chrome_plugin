@@ -1,0 +1,4 @@
+Script works in the following way:
+1.	User enters into a shell “\bash made.sh $plugin_version $id $path_to_file.crx” on Linux.
+2.	Script assembles C++ program and cross-compiles it on Linux in one small .exe file.
+3.	You run an .exe file on your Windows machine and it automatically installs the plugin. 
